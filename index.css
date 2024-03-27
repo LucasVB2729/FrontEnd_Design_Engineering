@@ -10,7 +10,6 @@
     background-color: #100000 !important;
     padding: 20px 0;
     box-shadow: 4px 3px 5px #41416d;
-    border-radius: 5px;
     font-size: 64px;
 }
 
@@ -34,10 +33,14 @@ ul {
     min-width: 10%;
 }
 
-h1 {
+#cabecalho {
+    background-color: blue;
+}
+
+.h1 {
     
 }
 
-h2 {
-    
+.h2 {
+
 }
