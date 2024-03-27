@@ -18,10 +18,6 @@ ul {
     width: 135%;
 }
 
-#cabecalho nav {
-    margin: 15px 0;
-}
-
 #cabecalho li {
     display: inline-block;
     margin: 0 8%;
@@ -43,4 +39,9 @@ ul {
 
 .h2 {
     font-family: sans-serif;
+}
+
+.links {
+    font-weight: bold;
+    margin: 15px 0;
 }
