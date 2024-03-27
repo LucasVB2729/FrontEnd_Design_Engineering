@@ -34,6 +34,11 @@ ul {
     background-color: blue;
 }
 
+#conteudo-principal {
+    font-size: 1em;
+    line-height: 1.5em
+}
+
 .h1 {
     font-family: sans-serif;
 }
