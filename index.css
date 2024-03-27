@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#cabecalho>h1 {
+    text-align: center;
+    color: #fff;
+    background-color: #100000 !important;
+    padding: 20px 0;
+    box-shadow: 4px 3px 5px #41416d;
+    border-radius: 5px;
+    font-size: 64px;
+}
+
+ul {
+    list-style: none;
+    width: 135%;
+}
+
+#cabecalho nav {
+    margin: 15px 0;
+}
+
+#cabecalho li {
+    display: inline-block;
+    margin: 0 8%;
+}
+
+#cabecalho li img {
+    display: block;
+    width: 50%;
+    min-width: 10%;
+}
+
+h1 {
+    
+}
+
+h2 {
+    
+}
