@@ -6,7 +6,6 @@
 
 ul {
     list-style: none;
-    width: 135%;
 }
 
 #cabecalho>h1 {
@@ -14,14 +13,14 @@ ul {
     color: #fff;
     background-color: #100000 !important;
     padding: 20px 0;
+    margin: 0;
     box-shadow: 4px 3px 5px #41416d;
     font-size: 64px;
 }
 
-
 #cabecalho li {
     display: inline-block;
-    margin: 0 8%;
+    margin: 0 11%;
 }
 
 #cabecalho li img {
@@ -34,7 +33,7 @@ ul {
     background-color: blue;
 }
 
-#conteudo-principal {
+#conteudo {
     font-size: 1em;
     line-height: 1.5em
 }
@@ -52,6 +51,6 @@ ul {
     margin: 15px 0;
 }
 
-.Container {
-    margin: 20px;
+.container * {
+    margin: 20px 20px 20px 20px;
 }
