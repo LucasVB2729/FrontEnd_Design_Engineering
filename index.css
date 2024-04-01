@@ -54,3 +54,8 @@ ul {
 .container * {
     margin: 20px 20px 20px 20px;
 }
+
+#contact form {
+    border: 1px solid gray;
+    padding: 10px 10px 10px 10px;
+}
