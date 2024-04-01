@@ -8,7 +8,7 @@ ul {
     list-style: none;
 }
 
-#cabecalho>h1 {
+.cabecalho>h1 {
     text-align: center;
     color: #fff;
     background-color: #100000 !important;
@@ -18,18 +18,19 @@ ul {
     font-size: 64px;
 }
 
-#cabecalho li {
+.cabecalho li {
     display: inline-block;
     margin: 0 11%;
 }
 
-#cabecalho li img {
+.cabecalho li img {
     display: block;
     width: 50%;
     min-width: 10%;
 }
 
-#cabecalho {
+.cabecalho {
+    font: bold;
     background-color: blue;
 }
 
@@ -38,15 +39,16 @@ ul {
     line-height: 1.5em
 }
 
-.h1 {
+h1 {
     font-family: sans-serif;
 }
 
-.h2 {
+h2 {
     font-family: sans-serif;
 }
 
-.links {
+a {
+    color: black;
     font-weight: bold;
     margin: 15px 0;
 }
